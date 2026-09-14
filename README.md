@@ -6,7 +6,7 @@ Bu repo “İnat TV PRO” adıyla arama yapan kullanıcıların eski ve güncel
 
 ## Güncel APK dosyasını indir
 
-### [İnat BOX v16 APK indir](https://github.com/inattv-ops/inattvpro/raw/refs/heads/main/inat-box-v16.apk)
+### [İnat BOX v16 APK indir](https://github.com/inattv-ops/inattvpro/releases/download/v16.0/inat-box-v16.apk)
 
 İndirme bağlantısı bu depodaki `inat-box-v16.apk` dosyasına doğrudan gider. Kullanıcıyı başka bir indirme alan adına veya reklam yönlendirme sayfasına göndermez.
 
@@ -143,7 +143,7 @@ Bu depoda verilen bilgiler ilk altı alanı açıkça belgelemektedir. İmza uyu
 - X: [https://x.com/inattvapk](https://x.com/inattvapk)
 - E-posta: **inattvapk@gmail.com**
 
-Eski `inattv.rest` alan adı ve eski GitHub organizasyon bağlantıları güncel yönlendirme olarak kullanılmamaktadır.
+Eski `inattv.rest` alan adı ve eski GitHub hesap bağlantıları güncel yönlendirme olarak kullanılmamaktadır.
 
 ## Sık sorulan sorular
 
@@ -179,7 +179,7 @@ Uygulamanın kullanımı sırasında bulunduğunuz bölgedeki yasalara, kullanı
 
 İnat TV PRO aramasıyla bu sayfaya geldiyseniz mevcut durumu kısa biçimde şöyle özetleyebiliriz: eski PRO v21 dosyası kaldırılmıştır; güncel indirilebilir paket İnat BOX 16.0’dır. Dosyayı yalnızca resmî repo bağlantısından indirin ve kurmadan önce SHA-256 değerini kontrol edin.
 
-### [İnat BOX v16 APK dosyasını indir](https://github.com/inattv-ops/inattvpro/raw/refs/heads/main/inat-box-v16.apk)
+### [İnat BOX v16 APK dosyasını indir](https://github.com/inattv-ops/inattvpro/releases/download/v16.0/inat-box-v16.apk)
 
 ---
 
