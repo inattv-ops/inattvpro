@@ -46,6 +46,14 @@ Cihazınızda daha önce “İnat TV PRO” adıyla kurulmuş bir uygulama varsa
 3. İnat BOX v16’yı kurarken Android’in gösterdiği uygulama adını inceleyin.
 4. Sistem imza veya paket çakışması bildirirse mevcut uygulamayı hemen kaldırmak yerine önce verilerinizi değerlendirin.
 
+## Uygulama ekranları
+
+Aşağıdaki görüntüler İnat BOX v16.0 uygulamasından alınmıştır. Yalnızca bu sayfaya sığması için ölçeklendirilmiştir; kırpılmamış ve içerikleri değiştirilmemiştir.
+
+| Ana ekran | Sol menü | Dikey oynatıcı | TV listesi |
+| :---: | :---: | :---: | :---: |
+| <img src="images/ekran-ana.jpg" width="200" alt="İnat BOX ana ekranı"> | <img src="images/ekran-menu.jpg" width="200" alt="İnat BOX sol menüsü"> | <img src="images/ekran-oynatici.jpg" width="200" alt="İnat BOX dikey oynatıcı ekranı"> | <img src="images/ekran-tv.jpg" width="200" alt="İnat BOX televizyon listesi"> |
+
 ## İnat BOX v16 dosyasının bütünlüğünü doğrulama
 
 İndirdiğiniz APK’nın bu depodaki dosyayla aynı olduğunu kontrol etmek için SHA-256 hesaplayabilirsiniz.
